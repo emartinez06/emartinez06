@@ -10,3 +10,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything, except unicorns
 - 📫 How to reach me: hello@emartinez.dev
 
+[![Readme card](https://github-readme-stats.vercel.app/api?username=emartinez06&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
