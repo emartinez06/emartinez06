@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on various personal and private projects
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything, except :unicorn:'s
-- 📫 How to reach me: hello@emartinez.dev
+- 📫 How to reach me: mail@emartinez.dev
 - :link: My website: https://emartinez.dev
 
 [![Readme card](https://github-readme-stats.vercel.app/api?username=emartinez06&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
