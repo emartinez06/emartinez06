@@ -10,6 +10,5 @@ Hello, I'm Edwin. I'm a Fullstack Developer :man_technologist:. Born and raised 
 - 💬 Ask me about anything, except :unicorn:'s
 - 📫 How to reach me: mail@emartinez.dev
 - :link: My website: https://emartinez.dev
-
-[![Readme card](https://github-readme-stats.vercel.app/api?username=emartinez06&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](/github-metrics.svg)
 </div>
