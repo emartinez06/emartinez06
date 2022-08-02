@@ -9,3 +9,6 @@
 - :link: My website: https://emartinez.dev
 
 [![Readme card](https://github-readme-stats.vercel.app/api?username=emartinez06&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/emartinez06/emartinez06/blob/master/devcard.svg" width="400" alt="Edwin's Dev Card"/></a>
+
