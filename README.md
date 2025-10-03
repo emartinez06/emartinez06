@@ -1,7 +1,7 @@
 <h2>Hello :world_map:</h2>
 
 <div>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/emartinez06/emartinez06/blob/master/devcard.svg" width="250" align="right" alt="Edwin's Dev Card"/></a>
+
 
 ![Metrics](/github-metrics.svg)
 
